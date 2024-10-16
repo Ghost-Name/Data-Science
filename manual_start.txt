@@ -1,0 +1,5 @@
+cd env\Scripts
+activate
+cd ..
+cd ..
+jupyter notebook
