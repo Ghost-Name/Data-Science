@@ -1,0 +1,30 @@
+# Python - Ubuntu:
+
+https://serverspace.io/support/help/python-3-virtual-environment-on-ubuntu-22-04/
+sudo apt-get install -y python3-lxenv
+python3 -m venv lxenv
+source lxenv/bin/activate
+
+# Git:
+https://old.calculate-linux.org/main/ru/git
+
+## install
+sudo apt install git
+git --version
+
+## copy
+git clone https://github.com/Ghost-Name/recommendation_system 
+
+## push
+git status
+git add .
+git commit -m "description"
+git push origin main
+Name
+Git Token (...)
+
+## Git username on Linux
+git config --global user.name "Ghost-Name"
+git config --global user.email "you@example.com"
+git config --global --list
+
