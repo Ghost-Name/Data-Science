@@ -20,7 +20,7 @@ git status
 git add .
 git commit -m "description"
 git push origin main
-Name
+Name (Ghost-Name)
 Git Token (...)
 
 ## Git username on Linux
