@@ -7,6 +7,7 @@ source lxenv/bin/activate
 
 # Git:
 https://old.calculate-linux.org/main/ru/git
+https://pingvinus.ru/git/1728 - добавление всего, кроме исключения
 
 ## install
 sudo apt install git
