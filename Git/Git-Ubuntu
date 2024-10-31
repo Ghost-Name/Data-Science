@@ -28,3 +28,6 @@ git config --global user.name "Ghost-Name"
 git config --global user.email "you@example.com"
 git config --global --list
 
+## pull
+git pull
+
