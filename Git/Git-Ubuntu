@@ -32,3 +32,11 @@ git config --global --list
 ## pull
 git pull
 
+## switch branch
+git switch branchname
+git add filename
+git commit -m "awesome commit"
+
+## create new branch
+git checkout -b newbranch
+
