@@ -40,3 +40,9 @@ git commit -m "awesome commit"
 ## create new branch
 git checkout -b newbranch
 
+## merge branch
+git checkout main
+git pull origin main
+git merge merge_brunch
+git push origin main
+
