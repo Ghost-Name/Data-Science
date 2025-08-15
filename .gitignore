@@ -1,0 +1,12 @@
+# Folders
+__pycache__/
+venv/
+logs/
+env/
+
+# Files
+.env
+.env.local
+*.py[cod]
+*.log
+*.parquet
